@@ -35,6 +35,12 @@
        "title": "To-Do List",
        "content": "Finish homework, call the dentist, buy groceries...",
        "colorIndex": 2
+      },
+      {
+       "id": 6,
+       "title": "Test Herman",
+       "content": "Finish homework, call the dentist, buy groceries...",
+       "colorIndex": 0
       }
    ]
 }
